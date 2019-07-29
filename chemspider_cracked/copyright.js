@@ -1,0 +1,1 @@
+document.write("<font size=-1 color=gray>Copyright &copy;  2010-2011 <a href='http://www.dotmatics.com'>Dotmatics</a> Ltd.</font>");
